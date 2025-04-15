@@ -1,0 +1,4 @@
+// Program 1: Age check
+let age = 25;
+let isAdult = age >= 18; // true if age is 18 or more
+console.log("Is Adult:", isAdult);
